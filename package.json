@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ChandanD2002/RPG#readme",
   "devDependencies": {
     "jest": "^27.2.5"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
